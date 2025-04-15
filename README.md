@@ -18,3 +18,6 @@ English-Vietnamese Translator using Transformer  This project implements a neura
 - pandas
 - matplotlib
 - nltk
+
+## Pretrained Model
+You can download the pretrained model from [Google Drive](https://drive.google.com/file/d/1T6a-nT56rBbVMK0JkWpTd7pXWTos1mnv/view?usp=drive_link).
